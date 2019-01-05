@@ -93,7 +93,7 @@ Uma maneira de deixar meu currículo sempre atualizado!
 	</tr>
 	<tr>
 		<td>Educação Ambiental</td>
-		<td>FAZENDO</td>
+		<td>01/2019</td>
 	<tr>
 		<td>Consumo Consiente de Energia</td>
 		<td>Não iniciado</td>
