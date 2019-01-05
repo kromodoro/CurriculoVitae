@@ -163,7 +163,7 @@ Uma maneira de deixar meu currículo sempre atualizado!
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>Historae de Dubuos Amantis</td>
+		<td>historia de duobus amantibus</td>
 		<td>LIDO</td>
 		<td>1</td>
 	</tr>
