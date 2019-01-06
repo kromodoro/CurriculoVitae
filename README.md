@@ -10,7 +10,7 @@ Uma maneira de deixar meu currículo sempre atualizado!
 </ul>
 
 <table>
-	<th colspan=3>Realção de Cursos 2018/2019</th>
+	<th colspan=3>Relação de Cursos 2018/2019</th>
 	<tr>
 		<td>INSTITUIÇÃO</td>
 		<td>Nome do curso</td>
