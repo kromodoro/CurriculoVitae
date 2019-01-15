@@ -118,7 +118,7 @@ Uma maneira de deixar meu currículo sempre atualizado!
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>Criando websites dinâmicos com PHP</td>
+		<td>Desenvolvendo websites dinâmicos com PHP</td>
 		<td>LENDO</td>
 		<td>2</td>
 	</tr>
@@ -163,7 +163,7 @@ Uma maneira de deixar meu currículo sempre atualizado!
 		<td>1</td>
 	</tr>
 	<tr>
-		<td>historia de duobus amantibus</td>
+		<td>Historia de duobus amantibus</td>
 		<td>LIDO</td>
 		<td>1</td>
 	</tr>
