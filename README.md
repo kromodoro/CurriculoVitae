@@ -177,6 +177,11 @@ Uma maneira de deixar meu currículo sempre atualizado!
 		<td>LIDO</td>
 		<td>1</td>
 	</tr>
+	<tr>
+		<td>O Poder do Hábito</td>
+		<td>LENDO</td>
+		<td>0</td>
+	</tr>
 
 
 </table>
