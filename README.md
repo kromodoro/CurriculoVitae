@@ -175,12 +175,12 @@ Uma maneira de deixar meu currículo sempre atualizado!
 	<tr>
 		<td>Sociedade da Caveira de Cristal</td>
 		<td>LIDO</td>
-		<td>1</td>
+		<td>2</td>
 	</tr>
 	<tr>
 		<td>O Poder do Hábito</td>
-		<td>LENDO</td>
-		<td>0</td>
+		<td>LIDO</td>
+		<td>1</td>
 	</tr>
 
 
