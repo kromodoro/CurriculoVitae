@@ -182,6 +182,11 @@ Uma maneira de deixar meu currículo sempre atualizado!
 		<td>LIDO</td>
 		<td>1</td>
 	</tr>
+	<tr>
+		<td>O que é poder</td>
+		<td>LIDO</td>
+		<td>1</td>
+	</tr>
 
 
 </table>
