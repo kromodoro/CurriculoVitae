@@ -89,7 +89,7 @@ Uma maneira de deixar meu currículo sempre atualizado!
 	</tr>
 	<tr>
 		<td>Fundamentos de Logistica</td>
-		<td>Não iniciado</td>
+		<td>03/2019</td>
 	</tr>
 	<tr>
 		<td>Educação Ambiental</td>
