@@ -119,7 +119,7 @@ Uma maneira de deixar meu currículo sempre atualizado!
 	</tr>
 	<tr>
 		<td>Desenvolvendo websites dinâmicos com PHP</td>
-		<td>LENDO</td>
+		<td>LIDO</td>
 		<td>2</td>
 	</tr>
 	<tr>
