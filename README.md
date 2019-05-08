@@ -123,11 +123,6 @@ Uma maneira de deixar meu currículo sempre atualizado!
 		<td>2</td>
 	</tr>
 	<tr>
-		<td>O que é Negócio</td>
-		<td>LENDO</td>
-		<td>1</td>
-	</tr>
-	<tr>
 		<td>Homem ao Quadrado</td>
 		<td>LIDO</td>
 		<td>1</td>
