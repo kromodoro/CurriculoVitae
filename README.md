@@ -47,7 +47,7 @@ Uma maneira de deixar meu currículo sempre atualizado!
 		<td>06/2018</td>
 	</tr>
 	<tr>
-		<td rowspan="14">SENAI</td>
+		<td rowspan="13">SENAI</td>
 		<td>Tecnologia da Informação e Comunicação</td>
 		<td>06/2018</td>
 	</tr>
@@ -97,6 +97,11 @@ Uma maneira de deixar meu currículo sempre atualizado!
 	<tr>
 		<td>Consumo Consiente de Energia</td>
 		<td>Não iniciado</td>
+	</tr>
+	<tr>
+		<td rowspan="1">UDEMY</td>
+		<td>HTML5 para quem não sabe nada de HTML5</td>
+		<td>06/2018</td>
 	</tr>
 </table>
 
