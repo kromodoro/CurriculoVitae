@@ -101,7 +101,7 @@ Uma maneira de deixar meu currículo sempre atualizado!
 	<tr>
 		<td rowspan="1">UDEMY</td>
 		<td>HTML5 para quem não sabe nada de HTML5</td>
-		<td>06/2018</td>
+		<td>06/2019</td>
 	</tr>
 </table>
 
