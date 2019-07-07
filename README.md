@@ -99,8 +99,12 @@ Uma maneira de deixar meu currículo sempre atualizado!
 		<td>Não iniciado</td>
 	</tr>
 	<tr>
-		<td rowspan="1">UDEMY</td>
+		<td rowspan="2">UDEMY</td>
 		<td>HTML5 para quem não sabe nada de HTML5</td>
+		<td>06/2019</td>
+	</tr>
+	<tr>
+		<td>Ânimo Metodológico Teórico</td>
 		<td>06/2019</td>
 	</tr>
 </table>
