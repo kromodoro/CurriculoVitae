@@ -4,7 +4,7 @@ Uma maneira de deixar meu currículo sempre atualizado!
 ### PROPOSTA:
 <ul>
   <li>Gerar um QRCODE que ligue a essa página.</li>
-  <li>Disponibilizar uma relação de cursos de 2018/2019</li>
+  <li>Disponibilizar uma relação de cursos de 2018++</li>
   <li>Lista de livros lidos e a serem lidos.</li>
   <li>Projetos e oficinas em andamento.</li>
 </ul>
@@ -27,11 +27,11 @@ Uma maneira de deixar meu currículo sempre atualizado!
 	</tr>
 	<tr>
 		<td>PHP para iniciantes</td>
-		<td>FAZENDO</td>
+		<td>12/2019</td>
 	</tr>
 	<tr>
 		<td>PHP + POO</td>
-		<td>Não iniciado</td>
+		<td>01/2020</td>
 	</tr>
 	<tr>
 		<td rowspan="3">NUBE</td>
