@@ -191,7 +191,17 @@ Uma maneira de deixar meu currículo sempre atualizado!
 		<td>LIDO</td>
 		<td>1</td>
 	</tr>
+</table>
 
+<table>
+<tr>
+<th colspan="3">Relação de Livros 2020</th>
+</tr>
+<tr>
+<td>Sapiens</td>
+<td>LIDO</td>
+<td>1</td>
+</tr>
 
 </table>
 
