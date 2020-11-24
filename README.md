@@ -198,10 +198,20 @@ Uma maneira de deixar meu currículo sempre atualizado!
 <th colspan="3">Relação de Livros 2020</th>
 </tr>
 <tr>
-<td>Sapiens</td>
-<td>LIDO</td>
-<td>1</td>
+	<td>Sapiens</td>
+	<td>LIDO</td>
+	<td>1</td>
 </tr>
+	<tr>
+		<td>21 lições para o século 21</td>
+		<td>LIDO</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>15 incriveis truqes mentais</td>
+		<td>LIDO</td>
+		<td>1</td>
+	</tr>
 
 </table>
 
