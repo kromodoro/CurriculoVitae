@@ -194,14 +194,14 @@ Uma maneira de deixar meu currículo sempre atualizado!
 </table>
 
 <table>
-<tr>
-<th colspan="3">Relação de Livros 2020</th>
-</tr>
-<tr>
-	<td>Sapiens</td>
-	<td>LIDO</td>
-	<td>1</td>
-</tr>
+	<tr>
+		<th colspan="3">Relação de Livros 2020</th>
+	</tr>
+	<tr>
+		<td>Sapiens Uma breve história da Humanidade</td>
+		<td>LIDO</td>
+		<td>1</td>
+	</tr>
 	<tr>
 		<td>21 lições para o século 21</td>
 		<td>LIDO</td>
