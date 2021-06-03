@@ -198,6 +198,11 @@ Uma maneira de deixar meu currículo sempre atualizado!
 		<th colspan="3">Relação de Livros 2020</th>
 	</tr>
 	<tr>
+		<td>Título</td>
+		<td>Situação</td>
+		<td>Nº de leituras</td>
+	</tr>
+	<tr>
 		<td>Sapiens Uma breve história da Humanidade</td>
 		<td>LIDO</td>
 		<td>1</td>
