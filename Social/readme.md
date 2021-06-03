@@ -17,6 +17,7 @@
 ### PAAP (Por amor ao Próximo)
 > Proposta: prestar serviço social a crianças e adolescentes do SAICA(Serviço de Acolhimento Institucional para Crianças e Adolescentes)
 > Como funciona: desenvolver atividades e norteador os acolhidos para a vida adulta com cursos, palestras e passeios
+
 > Fim: N/A
 #### Minhas responsábilidades
 - Atividades gerais
